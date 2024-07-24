@@ -1,6 +1,6 @@
 {
   "name": "@bestpak40/capacitor-game-connect-6",
-  "version": "6.0.2",
+  "version": "6.0.3",
   "description": "Use Game Services and Game Connect Capacitor 6",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -11,7 +11,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "OpenforgeCapacitorGameConnect.podspec"
+    "Bestpak40CapacitorGameConnect6.podspec"
   ],
   "author": "OpenForge LLC",
   "license": "MIT",
