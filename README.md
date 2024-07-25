@@ -6,6 +6,14 @@
   <a href="https://www.youtube.com/@OpenForge/videos">Subscribe to Youtube Channel</a> 
 </p>
 
+NOT WORKING ON IOS WITH CAPACITOR 6
+ONLY FOR ANDROID CAPACITOR 6
+
+TO USE ON IOS YOU MUST DOWNGRADE capacitor-ios to:
+
+    "@capacitor/ios": "^5.7.2",
+
+
 # Introduction
 Capacitor plugin for connecting and using services by Apple Game Center and Google Play Game Services. Features included are access to Sign-In, Leaderboard, and Achievements.
 
